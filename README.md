@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimonAndreAsk
+- 👋 Hi, I’m Simon Ask
 - 👀 I’m interested in Digital Analytics.
 - 🌱 I’m currently learning JavaScript.
 
